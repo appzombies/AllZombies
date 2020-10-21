@@ -4,15 +4,13 @@
     "fb_interstitial" : "206761076723476_206761400056777",
     "fb_native" : "206761076723476_309582603107989",	
     "fb_mid_rect" : "206761076723476_785200065546238",	
-   "admob_pub_id" : "pub-5058918294716764",
-    "admob_app_id" : "ca-app-pub-5058918294716764~5490084579",
-    "admob_banner" : "ca-app-pub-5058918294716764/8792687728",	
-    "admob_interstitial" : "ca-app-pub-5058918294716764/7288034366",
-    "admob_native" : "ca-app-pub-5058918294716764/9531054323",	
-    "video_link" : true,
-    "is_rand" : false,
+   "admob_pub_id" : "pub-1475929504519052",
+    "admob_app_id" : "ca-app-pub-1475929504519052~2868571264",
+    "admob_banner" : "ca-app-pub-1475929504519052/2182175557",	
+    "admob_interstitial" : "ca-app-pub-1475929504519052/1672692054",
+    "admob_native" : "ca-app-pub-1475929504519052/8364440521",
     "ad_type" : "0",
-    "new_pkg" : "com.dating.videocall",
+    "new_pkg" : "com.appzombies.english.gujarati.translator",
     "is_version" : "false"
   }
 ]
