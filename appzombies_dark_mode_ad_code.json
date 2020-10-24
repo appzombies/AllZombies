@@ -1,0 +1,17 @@
+[
+    {
+    "fb_banner" : "655771861943101_655773098609644",
+    "fb_interstitial" : "655771861943101_655772965276324",
+    "fb_native" : "655771861943101_655772335276387",
+    "fb_mid_rect" : "655771861943101_655772335276387",
+    "admob_pub_id" : "pub-1475929504519052",
+    "admob_app_id" : "ca-app-pub-1475929504519052~7696955563",
+    "admob_banner" : "ca-app-pub-1475929504519052/3757710559",
+    "admob_interstitial" : "ca-app-pub-1475929504519052/1131547212",
+    "admob_native" : "ca-app-pub-1475929504519052/8818465547",
+    "ad_type" : "1",
+    "appnext_id" : "9e1a8cf2-4b38-4986-a965-2193141d2851",
+    "new_pkg" : "com.appzombies.darkmode",
+    "is_version" : "false"
+  }
+]
