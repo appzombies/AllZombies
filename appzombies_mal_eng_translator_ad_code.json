@@ -9,6 +9,7 @@
     "admob_interstitial" : "ca-app-pub-4895021161756156/5494571897",
     "admob_native" : "ca-app-pub-4895021161756156/4181490222",	
     "is_admob_banner_only":true,
+    "appnext_id":"51b122d1-746f-43db-97ec-2a60278c205d";
     "ad_type" : "1",
     "new_pkg" : "com.appzombies.english.malayalam.translator",
     "is_version" : "false"
