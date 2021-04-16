@@ -1,5 +1,4 @@
-[
-    {
+{
     "fb_banner" : "292969488874452_293268885511179",
     "fb_interstitial" : "292969488874452_293268988844502",
     "fb_native" : "292969488874452_293269098844491",
@@ -13,5 +12,4 @@
     "appnext_id" : "436a80cd-d961-41db-acc7-f7bc53e77009",
     "new_pkg" : "com.appzombies.mbit",
     "is_version" : "false"
-  }
-]
+}
