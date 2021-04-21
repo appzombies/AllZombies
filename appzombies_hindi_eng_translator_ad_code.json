@@ -1,5 +1,4 @@
-[
-    {
+{
     "fb_banner" : "221630288400321_221630635066953",
     "fb_interstitial" : "221630288400321_221631001733583",
     "fb_native" : "221630288400321_329679720928710",	
@@ -9,9 +8,8 @@
     "admob_banner" : "ca-app-pub-1475929504519052/9016502638",	
     "admob_interstitial" : "ca-app-pub-1475929504519052/1992424129",
     "admob_native" : "ca-app-pub-1475929504519052/7703420968",	
-    "ad_type" : "1",
-    "appnext_id" : "",
+    "ad_type" : "0",
     "new_pkg" : "com.appzombies.english.hindi.translator",
     "is_version" : "false"
-  }
-]
+}
+
