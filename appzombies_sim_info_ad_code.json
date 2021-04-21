@@ -1,5 +1,4 @@
-[
-    {
+{
     "fb_banner" : "194091422266085_202464064762154",
     "fb_interstitial" : "194091422266085_202464161428811",
     "fb_native" : "194091422266085_202464284762132",	
@@ -12,5 +11,4 @@
     "ad_type" : "0",
     "new_pkg" : "com.appzombies.simcardinfo",
     "is_version" : "false"
-  }
-]
+ }
