@@ -1,4 +1,4 @@
-[    {
+{
     "fb_banner" : "366327764613026_366328341279635",
     "fb_interstitial" : "366327764613026_366328244612978",
     "fb_native" : "366327764613026_366327931279676",
@@ -12,5 +12,5 @@
     "appnext_id" : "2a8beefa-4563-4c5b-952a-4fac91d4aa02",
     "new_pkg" : "com.appzombies.puzzlevideomaker",
     "is_version" : "false"
-  }
-]
+}
+
