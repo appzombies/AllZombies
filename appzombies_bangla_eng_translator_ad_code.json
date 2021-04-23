@@ -1,5 +1,4 @@
-[
-    {
+{
     "fb_banner" : "2046333808777156_2046339052109965",
     "fb_interstitial" : "2046333808777156_2046339785443225",
     "fb_native" : "2046333808777156_2046340122109858",	
@@ -12,5 +11,5 @@
     "ad_type" : "0",
     "new_pkg" : "com.appzombies.english.bangla.translator",
     "is_version" : "false"
-  }
-]
+}
+
