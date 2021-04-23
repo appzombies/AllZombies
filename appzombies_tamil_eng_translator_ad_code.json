@@ -1,5 +1,4 @@
-[
-    {
+{
     "fb_banner" : "2175867945780837_2175870499113915",
     "fb_interstitial" : "2175867945780837_2175870255780606",
     "fb_native" : "2175867945780837_2175869085780723",	
@@ -12,5 +11,4 @@
     "ad_type" : "1",
     "new_pkg" : "com.appzombies.english.tamil.translator",
     "is_version" : "false"
-  }
-]
+}
