@@ -1,5 +1,4 @@
-[
-    {
+{
     "fb_banner" : "571425779988820_571443126653752",
     "fb_interstitial" : "571425779988820_571441589987239",
     "fb_native" : "571425779988820_571426896655375",
@@ -12,5 +11,5 @@
     "ad_type" : "1",
     "new_pkg" : "com.appzombies.english.japanese.translator",
     "is_version" : "false"
-  }
-]
+}
+
