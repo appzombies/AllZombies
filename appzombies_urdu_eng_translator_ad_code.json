@@ -1,5 +1,4 @@
-[
-    {
+{
     "fb_banner" : "2046333808777156_2046339052109965",
     "fb_interstitial" : "2046333808777156_2046339785443225",
     "fb_native" : "2046333808777156_2046340122109858",
@@ -13,5 +12,5 @@
     "appnext_id" : "c95d8a7a-f8ce-4d06-a9bc-527e73f7075e",
     "new_pkg" : "com.appzombies.english.urdu.translator",
     "is_version" : "false"
-  }
-]
+}
+
