@@ -1,5 +1,4 @@
-[
-    {
+{
     "fb_banner" : "356331214957476_356332834957314",
     "fb_interstitial" : "356331214957476_356332551624009",
     "fb_native" : "356331214957476_356333098290621",
@@ -13,5 +12,5 @@
     "appnext_id" : "efcd6171-e933-441b-a2e1-7ee410fdcd49",
     "new_pkg" : "com.appzombies.videologoremover",
     "is_version" : "false"
-  }
-]
+}
+
