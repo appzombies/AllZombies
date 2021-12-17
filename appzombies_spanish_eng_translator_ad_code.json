@@ -3,12 +3,12 @@
     "fb_interstitial" : "187664975177057_187665561843665",
     "fb_native" : "187664975177057_280697895873764",
     "fb_mid_rect" : "187664975177057_280698072540413",
-    "admob_pub_id" : "pub-2226112071682807",
-    "admob_app_id" : "ca-app-pub-2226112071682807~4461292831",
-    "admob_banner" : "ca-app-pub-2226112071682807/5238832660",
-    "admob_interstitial" : "ca-app-pub-2226112071682807/4771928809",
-    "admob_native" : "ca-app-pub-2226112071682807/2145765468",
-    "ad_type" : "0",
+    "admob_pub_id" : "pub-4895021161756156",
+    "admob_app_id" : "ca-app-pub-4895021161756156~1783946305",
+    "admob_banner" : "ca-app-pub-4895021161756156/2849615964",
+    "admob_interstitial" : "ca-app-pub-4895021161756156/5284207619",
+    "admob_native" : "ca-app-pub-4895021161756156/9031880934",
+    "ad_type" : "1",
     "new_pkg" : "com.appzombies.english.arabic.translator",
     "is_version" : "false"
 }
