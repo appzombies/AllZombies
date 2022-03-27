@@ -7,7 +7,7 @@
     "admob_banner": "/21952429235,22643476596/TTS_WOXXIN_2_STATUSSAVER_BANNER_AD",
     "admob_interstitial": "/21952429235,22643476596/TTS_WOXXIN_2_STATUSSAVER_INTERSTITIAL",
     "admob_native": "/21952429235,22643476596/TTS_WOXXIN_2_STATUSSAVER_NATIVE_AD",
-    "load_more":true
+    "load_more":true,
     "ad_type": "1",
     "new_pkg": "com.appzombies.videostatussaver",
     "is_version": "false"
