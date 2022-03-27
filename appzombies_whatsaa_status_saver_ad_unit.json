@@ -4,9 +4,9 @@
     "fb_native": "218957738881970_244680196309724",
     "admob_pub_id": "pub-3940256099942544",
     "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
-    "admob_banner": "/21952429235,22643476596/TTS_WOXXIN_2_STATUSSAVER_BANNER_AD",
-    "admob_interstitial": "/21952429235,22643476596/TTS_WOXXIN_2_STATUSSAVER_INTERSTITIAL",
-    "admob_native": "/21952429235,22643476596/TTS_WOXXIN_2_STATUSSAVER_NATIVE_AD",
+    "admob_banner": "ca-app-pub-2226112071682807/9917164106",
+    "admob_interstitial": "ca-app-pub-2226112071682807/8099813260",
+    "admob_native": "ca-app-pub-2226112071682807/4664837429",
     "ad_type": "1",
     "new_pkg": "com.appzombies.videostatussaver",
     "is_version": "false"
