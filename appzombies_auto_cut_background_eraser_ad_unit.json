@@ -5,7 +5,9 @@
   "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
   "admob_native": "ca-app-pub-3940256099942544/1044960115",
   "admob_open": "ca-app-pub-3940256099942544/3419835294",
+   "load_more":false,
     "new_pkg": "com.appzombies.backgroundchangerofphoto.backgroundphotoeditor.photoeditor.imageeditor.backgrounderaser.magicut.autocut.backgroundremover",
     "is_version": "false"
+   
 }
 
