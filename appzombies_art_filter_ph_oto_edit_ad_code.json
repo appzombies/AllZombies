@@ -8,7 +8,7 @@
     "admob_banner" : "ca-app-pub-4895021161756156/4501760941",
     "admob_interstitial" : "ca-app-pub-4895021161756156/9467664087",
     "admob_native" : "ca-app-pub-4895021161756156/6744780907",
-    "ad_type" : "1",
+    "ad_type" : "0",
     "new_pkg" : "com.appzombies.photo.art.filter",
     "is_version" : "false"
 }
