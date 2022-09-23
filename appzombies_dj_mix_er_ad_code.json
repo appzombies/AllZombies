@@ -5,9 +5,9 @@
     "fb_mid_rect" : "592002641759071_592003085092360",
     "admob_pub_id" : "pub-9449995187191149",
     "admob_app_id" : "ca-app-pub-9449995187191149~9886857402",
-    "admob_banner" : "ca-app-pub-9449995187191149/3191007993",
-    "admob_interstitial" : "ca-app-pub-9449995187191149/8251762983",
-    "admob_native" : "ca-app-pub-9449995187191149/6912946373",
+    "admob_banner" : "/21753324030,22792603201/com.appzombies.djmixer.djplayer.djmixerstudio.djstudio.virtualdj_Banner",
+    "admob_interstitial" : "/21753324030,22792603201/com.appzombies.djmixer.djplayer.djmixerstudio.djstudio.virtualdj_Interstitial",
+    "admob_native" : "/21753324030,22792603201/com.appzombies.djmixer.djplayer.djmixerstudio.djstudio.virtualdj_Native",
     "ad_type" : "1",
     "new_pkg" : "com.appzombies.djmixer.djplayer.djmixerstudio.djstudio.virtualdj",
     "is_version" : "false"
