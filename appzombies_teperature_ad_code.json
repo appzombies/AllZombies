@@ -5,9 +5,9 @@
     "fb_mid_rect" : "546885946197072_546886456197021",
     "admob_pub_id" : "pub-4895021161756156",
     "admob_app_id" : "ca-app-pub-4895021161756156~1037298278",
-    "admob_banner" : "ca-app-pub-4895021161756156/4784971596",
-    "admob_interstitial" : "ca-app-pub-4895021161756156/7027991554",
-    "admob_native" : "ca-app-pub-4895021161756156/6836419866",
+    "admob_banner" : "/21753324030,22792603201/com.appzombies.temperature_Banner",
+    "admob_interstitial" : "/21753324030,22792603201/com.appzombies.temperature_Interstitial",
+    "admob_native" : "/21753324030,22792603201/com.appzombies.temperature_Native",
     "ad_type" : "1",
     "new_pkg" : "com.appzombies.temperature",
     "is_version" : "false"
